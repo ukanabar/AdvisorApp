@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvisorApp", "AdvisorApp\AdvisorApp.csproj", "{47B2F14B-1584-4CCE-84F0-47F8A5BE9635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvisorApp.Tests", "AdvisorApp.Tests\AdvisorApp.Tests.csproj", "{62640B3B-0A30-4842-A520-4A63EE64C157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B2F14B-1584-4CCE-84F0-47F8A5BE9635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B2F14B-1584-4CCE-84F0-47F8A5BE9635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B2F14B-1584-4CCE-84F0-47F8A5BE9635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B2F14B-1584-4CCE-84F0-47F8A5BE9635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62640B3B-0A30-4842-A520-4A63EE64C157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62640B3B-0A30-4842-A520-4A63EE64C157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62640B3B-0A30-4842-A520-4A63EE64C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62640B3B-0A30-4842-A520-4A63EE64C157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
